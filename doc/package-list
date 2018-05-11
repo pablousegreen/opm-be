@@ -1,0 +1,12 @@
+com.intelmas
+com.intelmas.config
+com.intelmas.controller
+com.intelmas.controller.dto
+com.intelmas.controller.elasticsearch.dto
+com.intelmas.dto.model
+com.intelmas.exception
+com.intelmas.repository.cassandra
+com.intelmas.repository.elastic
+com.intelmas.service
+com.intelmas.service.impl
+com.intelmas.utils
